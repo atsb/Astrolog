@@ -1,6 +1,6 @@
       **********************************************************
       *                                                          
-      *  ASTRONOMY LOGGING SOFTWARE  
+      *  ASTRONOMY LOGGING SOFTWARE
       *
       *  MODULE NAME: ASTROLOG.COB
       *
